@@ -1,0 +1,6 @@
+apaar_id,full_name,dob,gender,email,phone,program,enrollment_year,institution_code
+100000000021,Meenakshi Sundaram,2004-06-12,Female,meena@example.com,9000000021,B.Tech Mechanical,2023,U-0101
+100000000022,Harish Babu,2003-02-19,Male,harish@example.com,9000000022,B.Sc Chemistry,2022,C-0303
+10000000023,Short Id,2004-01-01,Male,,,B.A History,2023,U-0202
+100000000001,Wrong Name,2004-03-14,Female,,,B.Tech Computer Science,2022,U-0101
+100000000024,Zoya Khan,2035-01-01,Female,zoya@@example.com,12345,B.Com,2023,U-9999
